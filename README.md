@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/>](https://github.com/user/repository/subscription)
 
-[<img src="https://www.kindpng.com/picc/m/128-1280187_github-logo-png-github-transparent-png.png" width="25"/>](https://github.com/vivekkumarbilla)
+[<img src="https://www.kindpng.com/picc/m/128-1280187_github-logo-png-github-transparent-png.png" height="25"/>](https://github.com/vivekkumarbilla)
