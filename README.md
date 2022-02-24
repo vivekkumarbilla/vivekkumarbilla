@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw1MWYxPpJs_tfNN3T8EPHR8&ust=1645761304199000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOiTqt-4l_YCFQAAAAAdAAAAABAX" width="25"/>](https://github.com/user/repository/subscription)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/>](https://github.com/user/repository/subscription)
