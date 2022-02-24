@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.linkedin.com/in/vivekananda-billa-1a3601171/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" height="25"/></a>
-  
 <a href="https://instagram.com/vincent_05" style="background-color"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png" height="25"/></a>
-
-<a href="https://twitter.com/05_billlaaaA" style="background-color"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="25"/></a>
+<a href="https://twitter.com/05_billlaaaA" style="background-color"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="30"/></a>
   
 </div>
