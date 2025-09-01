@@ -6,6 +6,5 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working at Wells Fargo
-- 📫 How to reach me: Email me at vivekbilla345@gmail.com
-- ⚡ Fun fact: I put 0 efforts for this Readme.md
+- 📫 How to reach me: Email me at vivekbilla345@gmail.com or visit https://vivekbilla.in
 
